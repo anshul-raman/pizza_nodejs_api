@@ -8,7 +8,7 @@ Sample Rest API written in NodeJs with no external dependencies and auth support
 
 	[x] setup basic server and /ping endpoint
 	[X] setup filestorage for storing data 
-	[ ] setup /users endpoint for signup
+	[x] setup /users endpoint for signup
 
 
 
@@ -18,3 +18,9 @@ Sample Rest API written in NodeJs with no external dependencies and auth support
 
 ### Endpoints
 >  /ping
+
+> /tokens
+> CRUD - tokens for authentication
+
+> /users
+> CRUD - users 
